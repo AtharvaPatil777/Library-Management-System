@@ -1,0 +1,6 @@
+*.log
+*.exe
+.DS_Store
+node_modules/
+config.ini
+*.bak
